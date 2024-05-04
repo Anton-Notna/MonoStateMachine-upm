@@ -1,0 +1,16 @@
+{
+    "name": "MSMEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:090b33c26d8acf04c9edc6b1ec7c594d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

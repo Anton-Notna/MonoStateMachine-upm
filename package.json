@@ -1,7 +1,7 @@
 {
     "name": "com.omicronperson.monostatemachine",
     "displayName": "Mono State Machine",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "unity": "2022.3",
     "dependencies": {},
